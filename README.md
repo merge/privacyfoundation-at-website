@@ -9,6 +9,7 @@ Setup probably looks like this:
 		apt-get install ruby-dev
 		gem install bundler
 		bundle install
+		gem install rake
 
 
 before you can use `rake generate`, `rake preview` or `rake new_post["title"]`
