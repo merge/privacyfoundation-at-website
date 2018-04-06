@@ -37,9 +37,14 @@ canonifyURLs = "false"
     weight = 1
 
 [[menu.top]]
+    url = "/about-tor/"
+    name = "Was ist Tor"
+    weight = 3
+
+[[menu.top]]
     url = "/ressourcen/"
     name = "Ressourcen"
-    weight = 2
+    weight = 4
 
 # Bottom menu entries
 [[menu.bottom]]
