@@ -2,7 +2,7 @@
 title: "Tor So Oder So"
 date: 2014-08-12T13:25:57+02:00
 ---
-Am 8. August 2014 wurde die "Austrian Privacy Foundation" als österreichischer [Verein](/verein) in Wien errichtet. Wir, die fünf Gründungsmitglieder setzen uns zum Ziel, Tor und andere Anonymisierungsmöglichkeiten an vielen Stellen zur Normalität zu machen, bestehende Probleme zu lösen und das Thema Privatsphäre etwas besser in der österreichischen Gesellschaft zu verankern. In den nächsten Monaten werden uns folgende Dinge beschäftigen:
+Am 8. August 2014 wurde die "Austrian Privacy Foundation" als österreichischer [Verein](/kontakt/) in Wien errichtet. Wir, die fünf Gründungsmitglieder setzen uns zum Ziel, Tor und andere Anonymisierungsmöglichkeiten an vielen Stellen zur Normalität zu machen, bestehende Probleme zu lösen und das Thema Privatsphäre etwas besser in der österreichischen Gesellschaft zu verankern. In den nächsten Monaten werden uns folgende Dinge beschäftigen:
 
 * Für Internet Provider bedeuten Kunden, die Tor Exit Relays betreiben manchmal einen erhöhten Kommunikationsaufwand. Wir wollen mit der ISPA zusammenarbeiten, offene Fragen ausräumen und ein konstruktives Miteinander schaffen.
 

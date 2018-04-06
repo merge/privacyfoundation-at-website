@@ -8,7 +8,7 @@ Am 11.12. lud die Energie AG zu einer [Vortragsreihe](https://ins.jku.at/node/94
 
 #### Das Exit Relay
 
-Die JKU hat ein institutsübergreifend ein Vorzeigeprojekt gestartet, in dessen Rahmen ein schnelles Exit Relay betrieben wird. Technisch und juristisch fließt einiges an Arbeit hinein und es laufen das beschriebene [Exit Relay](https://globe.torproject.org/#/relay/01A9258A46E97FF8B2CAC7910577862C14F2C524 "ins0 Exit relay") und mehrere [Test](https://globe.torproject.org/#/relay/7C3AF46F77445A0B1E903A5AF5B730A05F127BFC "ins2 test relay") [Relays](https://globe.torproject.org/#/relay/CD9FD887A4572D46938640BA65F258851F1E418B "ins1 test relay"). Es sollen in Zukunft zum Beispiel Aussagen getroffen werden können, wie oder wozu das Tor Netz allgemein oft oder nicht so oft genutzt wird.
+Die JKU hat ein institutsübergreifend ein Vorzeigeprojekt gestartet, in dessen Rahmen ein schnelles Exit Relay betrieben wird. Technisch und juristisch fließt einiges an Arbeit hinein und wird das beschriebene [Exit Relay](https://metrics.torproject.org/rs.html#details/01A9258A46E97FF8B2CAC7910577862C14F2C524 "ins0 Exit relay") betrieben. Es sollen in Zukunft zum Beispiel Aussagen getroffen werden können, wie oder wozu das Tor Netz allgemein oft oder nicht so oft genutzt wird.
 
 #### Rechtliches
 
@@ -29,3 +29,6 @@ Das Recht "Schutz der Privatsphäre" (Art 8 EMRK, Art 7 EU-GRC) zum Beispiel spr
 Diese Darstellung ist zwar überzeichnet und kurz, zeigt aber das Spannungsfeld der Grundrechte, in dem Anonymisierung im Web steht sowie die gegenläufigen Interessen an diesen Grundrechten.
 
 Die JKU meint, dass eine Verhältnismäßigkeit eines solchen Eingriffs (Verbot von Anonymisierung) sehr fraglich ist. Er betrifft (nahezu) die gesamte Bevölkerung in ihrem Grundrecht auf Achtung des Privatlebens.
+
+
+edit: 2018-04-06: Links aktualisiert
