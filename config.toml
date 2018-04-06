@@ -1,0 +1,58 @@
+baseURL = "http://privacyfoundation.at/"
+languageCode = "de-AT"
+title = "Austrian Privacy Foundation"
+theme = "plain-blog"
+
+# copyright is shown in footer
+# Example:
+# copyright = "&copy; 2017 Joe Bloggs"
+# TODO CC License
+copyright = "2018 Austrian Privacy Foundation"
+
+# If your base url is not the site root, you must set canonifyURLs = "true"
+# Example 1:
+#   baseurl = "https://xyz.com/"
+#   canonifyURLs = "false"
+# Example 2:
+#   baseurl = "https://xyz.com/spqr/"
+#   canonifyURLs = "true"
+canonifyURLs = "false"
+
+[author]
+	# Sets <meta name="author" ...> tag in <head>
+    name = "Martin Kepplinger"
+    # Enable Google Analytics.
+    # i.e.
+    #
+    # gaID = "UA-12345678-1"
+    #
+    # To find your tracking ID, see:
+    # https://support.google.com/analytics/answer/1032385?hl=en
+    gaID = ""
+
+# Top menu
+[[menu.top]]
+    url = "/kontakt/"
+    name = "Kontakt"
+    weight = 1
+
+[[menu.top]]
+    url = "/ressourcen/"
+    name = "Ressourcen"
+    weight = 2
+
+# Bottom menu entries
+[[menu.bottom]]
+	url = "/kontakt/"
+	name = "Comments"
+	weight = 1
+
+[[menu.bottom]]
+	url = "https://github.com/merge/privacyfoundation-at-website"
+	name = "GitHub"
+	weight = 2
+
+[[menu.bottom]]
+	url = "https://creativecommons.org/licenses/by-sa/4.0/"
+	name = "CC BY-SA 4.0"
+	weight = 3
