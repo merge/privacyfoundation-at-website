@@ -17,9 +17,9 @@ bei einem ISP in Österreich zu betreiben, steigert die Akzeptanz und betont
 die [Wichtigkeit von Tor](../../about-tor) im Land; ob für Unternehmen oder
 Verbraucher.
 
-## Wie ein Exit Relay betreiben?
-Das Wichtigste ist wohl, den Entschluss dazu zu fassen. Danach gibt es viele
-mittlerweise genug Hilfestellung für die Vorbereitung und Durchführung solch eines
+## Wie zu Werke gehen?
+Das Wichtigste ist wohl, den Entschluss dazu zu fassen. Danach gibt es
+mittlerweise genug Hilfestellungen für die Vorbereitung und Durchführung des
 Vorhabens: Im Wiki von torproject.org steht ein wunderbarer Leitfaden zur
 Verfügung:
 
@@ -34,15 +34,12 @@ Rechtliche Informationen zu Exit Relays in Österreich und
 
 * [FAQ zu Exit Relays in Österreich](/downloads/Tor_FAQ_V1.pdf)
 
-Und auch wir oder Betreiber bestehender Relays stehen für Fragen
-[zur Verfügung](/kontakt).
-
-## Erfahrungsbericht
-TODO
+Und auch wir oder Betreiber bestehender Relays stehen für Fragen oder
+Erfahrungsberichte [zur Verfügung](/kontakt).
 
 ## Fazit
 Alles, was man zum Betreiben eines Exit-Relays wissen muss, ist verfügbar.
-Wichtig ist, schon bei der Suche nach einem Provider, Offenheit über das
+Wichtig ist, schon bei der Suche nach einem Provider: Offenheit über das
 Vorhaben und Freundlichkeit.
 
 Natürlich sind wie für jeden Server Kosten zu tragen. Darüberhinaus steht mit
