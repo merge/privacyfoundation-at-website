@@ -36,7 +36,7 @@ vom Tor Projekt und Entwickler, heute, am 22. April 2018
 
 ## Wie zu Werke gehen?
 Das Wichtigste ist wohl, den Entschluss dazu zu fassen. Danach gibt es
-mittlerweise genug Hilfestellungen für die Vorbereitung und Durchführung des
+mittlerweile genug Hilfestellungen für die Vorbereitung und Durchführung des
 Vorhabens: Im Wiki von torproject.org steht ein wunderbarer Leitfaden zur
 Verfügung:
 
@@ -64,6 +64,6 @@ Alles, was man zum Betreiben eines Exit-Relays wissen muss, ist verfügbar.
 Wichtig ist, schon bei der Suche nach einem Provider: Offenheit über das
 Vorhaben und Freundlichkeit.
 
-Natürlich sind wie für jeden Server Kosten zu tragen. Darüberhinaus steht mit
+Natürlich sind wie für jeden Server Kosten zu tragen. Darüber hinaus steht mit
 einer Portion Geduld und Spaß an der Sache dem nächsten Exit Relay
 nichts mehr im Weg.
