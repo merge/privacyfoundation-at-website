@@ -17,8 +17,8 @@ das Tor Netz robuster, stabiler, sicherer und schneller für alle Nutzer. Es
 bei einem ISP in Österreich zu betreiben, steigert die Akzeptanz und betont
 die [Wichtigkeit von Tor](../../about-tor) im Land; ob für Unternehmen oder
 Verbraucher. Es setzt gewissermaßen ein Zeichen gegen mehr Überwachung, was
-nach der am 20. April 2018
-[beschlossenen Gesetze](https://www.parlament.gv.at/PAKT/AKT/SCHLTHEM/SCHLAG/J2018/085Nationalrat.shtml)
+nach den am 20. April 2018
+[beschlossenen Gesetzen](https://www.parlament.gv.at/PAKT/AKT/SCHLTHEM/SCHLAG/J2018/085Nationalrat.shtml)
 aktueller denn je ist.
 Auch fürs globale Tor Netz sind Exit Relays momentan von besonders großer
 Bedeutung, wie
